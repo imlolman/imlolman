@@ -6,9 +6,10 @@
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=imlolman&row=1&column=7" alt="imlolman" /></p>
 <center>
 
-<h3 align="left">Visit My Website</h3>
+<h3 align="left">Links:</h3>
 <p align="left">
-  <a href="https://imlolman.github.io" target="blank">https://imlolman.github.io/</a>
+  <a href="https://imlolman.github.io" target="blank">https://imlolman.github.io/</a><br>
+  <a href="https://www.linkedin.com/in/imlolman/" target="blank">https://www.linkedin.com/in/imlolman/</a>
 </p>
 
 <p>
