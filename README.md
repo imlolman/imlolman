@@ -27,7 +27,8 @@ Technical Lead with 8+ years of experience driving technical excellence and buil
 </p>
 
 - Leading technical strategy and architecture for multiple SaaS products: **LaraPush** (push notifications), **ZeroCLI** (managed hosting), and **AdsGrab** (monetization)
-- Architected and scaled push notification platform to handle **millions of messages daily** with microservices infrastructure
+- Architected and scaled push notification platform to handle **millions of messages per minute** with microservices infrastructure
+- Achieved **$10k+ MRR** (Monthly Recurring Revenue) through scalable SaaS growth strategies
 - Built comprehensive migration system importing subscribers from OneSignal, Feedify, iZooto, Truepush, and Notix
 - Implemented double-layer Free CDN (GitHub Pages + Cloudflare) ensuring 99.9% uptime
 - Developed 100+ automation tools reducing manual workload by 80%
@@ -52,15 +53,19 @@ Technical Lead with 8+ years of experience driving technical excellence and buil
 ## Featured Projects
 
 ### LaraPush (<a href="https://larapush.com" target="_blank">larapush.com</a>)
-A self-hosted push notification platform powering over 10,000 websites. Architected and built solo for the first two years, handling backend, frontend, analytics, payment gateway integration, and automated migration systems. The platform delivers millions of notifications per minute.
+A self-hosted push notification platform powering over 10,000 websites. Architected and built solo for the first two years, handling backend, frontend, analytics, payment gateway integration, and automated migration systems. The platform delivers millions of notifications per minute. Has enterprise features like user targetin g, automation, and lot more.
 
 **Tech Stack**: 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-EA2027?style=flat-square&logo=nodedotjs&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ### Lolman.Tools (<a href="https://lolman.tools" target="_blank">lolman.tools</a>)
 Developed and scaled **100+ free, fast, and privacy-focused tools** that run entirely in-browser. Built custom framework for developing AI-based, Wasm-based, and browser-powered utilities while maintaining consistent UI. Focused on privacy by leveraging core browser capabilities without storing user data.
@@ -73,7 +78,7 @@ Developed and scaled **100+ free, fast, and privacy-focused tools** that run ent
 ![AI](https://img.shields.io/badge/AI_Integration-8E75B2?style=flat-square&logo=openai&logoColor=white)
 
 ### WAPI - WhatsApp Unofficial API (<a href="https://wapi.to" target="_blank">wapi.to</a>)
-A SAAS product that allows users to programmatically send and receive WhatsApp messages via API. Features include rate limiting, queue management, and anti-spam protection.
+A SAAS product that allows users to programmatically send and receive WhatsApp messages via API. Features include rate limiting, queue management, and anti-spam protection and a lot more.
 
 **Tech Stack**: 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
@@ -139,17 +144,12 @@ Complete MLM platform with React Native app, Laravel backend, and admin panel. F
 
 ### Specializations
 - Microservices Architecture & Distributed Systems
-- RESTful & GraphQL API Development
 - Push Notifications (Firebase FCM, VAPID, Web Push, Mobile Push)
 - Payment Gateway Integration (Stripe, PhonePe, BillDesk, Razorpay)
 - Web Scraping & Automation
 - SAAS Platform Development
-- Chrome Extension Development
 - Virtualization & Server Management (Proxmox)
-- Queue Management & Task Scheduling
-- Real-time Systems & WebSockets
-- Database Design & Optimization
-- AI Integration & Development Tools
+- Anything Tech that has Research Involved :).
 
 ## Open Source Contributions
 
@@ -182,19 +182,17 @@ I maintain several open-source PHP SDKs and tools:
 - Building scalable SAAS platforms
 - Automation and productivity tools
 - Security research and bug bounties
-- Push notification systems at scale
-- Payment gateway integrations
-- API development and microservices
-- AI integration and automation tools
+- AI integration and working with automation tools
 - Chrome extensions and browser tools
+- Working with Cool People like You who read entire portfolio.
 
-## Project Categories
+## Projects I've Build.
 
-- **SAAS Platforms**: LaraPush, WAPI, ZeroCLI, AdsGrab
+- **Enterprise Solutions**: LaraPush, Learn Bharat App, GrabHunt Marketplace
+- **SAAS Platforms**: WAPI, ZeroCLI, AdsGrab, Pushfly Core (Multitenant backend)
 - **Tool Platforms**: Lolman.Tools (100+ browser-based tools)
 - **Automation Tools**: WhatsApp Automation, YouTube Video Uploader, Google Meet Recorder
 - **SDKs & Libraries**: PhonePe, BillDesk, ZohoBooks, PayU, CCAvenue, Firebase SDKs
-- **Enterprise Solutions**: Learn Bharat App, GrabHunt Marketplace
 - **Developer Tools**: PHP SDK Generator, Backup to Drive, Proxmox Snippets API
 - **Browser Extensions**: WhatsApp Suggestion Chips, Color Picker, Google Meet Recorder Extension
 
