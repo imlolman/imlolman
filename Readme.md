@@ -51,7 +51,7 @@ Technical Lead with 8+ years of experience driving technical excellence and buil
 
 ## Featured Projects
 
-### LaraPush ([larapush.com](https://larapush.com))
+### LaraPush (<a href="https://larapush.com" target="_blank">larapush.com</a>)
 A self-hosted push notification platform powering over 10,000 websites. Architected and built solo for the first two years, handling backend, frontend, analytics, payment gateway integration, and automated migration systems. The platform delivers millions of notifications per minute.
 
 **Tech Stack**: 
@@ -62,7 +62,7 @@ A self-hosted push notification platform powering over 10,000 websites. Architec
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-### Lolman.Tools ([lolman.tools](https://lolman.tools))
+### Lolman.Tools (<a href="https://lolman.tools" target="_blank">lolman.tools</a>)
 Developed and scaled **100+ free, fast, and privacy-focused tools** that run entirely in-browser. Built custom framework for developing AI-based, Wasm-based, and browser-powered utilities while maintaining consistent UI. Focused on privacy by leveraging core browser capabilities without storing user data.
 
 **Tech Stack**: 
@@ -72,7 +72,7 @@ Developed and scaled **100+ free, fast, and privacy-focused tools** that run ent
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
 ![AI](https://img.shields.io/badge/AI_Integration-8E75B2?style=flat-square&logo=openai&logoColor=white)
 
-### WAPI - WhatsApp Unofficial API ([wapi.to](https://wapi.to))
+### WAPI - WhatsApp Unofficial API (<a href="https://wapi.to" target="_blank">wapi.to</a>)
 A SAAS product that allows users to programmatically send and receive WhatsApp messages via API. Features include rate limiting, queue management, and anti-spam protection.
 
 **Tech Stack**: 
@@ -156,26 +156,26 @@ Complete MLM platform with React Native app, Laravel backend, and admin panel. F
 I maintain several open-source PHP SDKs and tools:
 
 ### PHP SDKs & Payment Gateways
-- **[PhonePe PHP SDK](https://github.com/imlolman/phonepe-php-sdk)** - Unofficial PHP SDK for PhonePe payment gateway
-- **[BillDesk PHP SDK](https://github.com/imlolman/billdesk-php-sdk)** - Built from latest v2 documentation
-- **[ZohoBooks PHP SDK](https://github.com/imlolman/ZohoBooks)** - Generated using custom PHP SDK Generator
-- **[PayU PHP SDK](https://github.com/imlolman/payu-php-sdk)** - PayU payment gateway integration
-- **[CCAvenue PHP SDK](https://github.com/imlolman/CCAvenue-php-sdk)** - CCAvenue payment gateway integration
-- **[Firebase PHP SDK](https://github.com/imlolman/firebase-php)** - Unofficial Firebase Admin SDK for PHP
+- <a href="https://github.com/imlolman/phonepe-php-sdk" target="_blank"><strong>PhonePe PHP SDK</strong></a> - Unofficial PHP SDK for PhonePe payment gateway
+- <a href="https://github.com/imlolman/billdesk-php-sdk" target="_blank"><strong>BillDesk PHP SDK</strong></a> - Built from latest v2 documentation
+- <a href="https://github.com/imlolman/ZohoBooks" target="_blank"><strong>ZohoBooks PHP SDK</strong></a> - Generated using custom PHP SDK Generator
+- <a href="https://github.com/imlolman/payu-php-sdk" target="_blank"><strong>PayU PHP SDK</strong></a> - PayU payment gateway integration
+- <a href="https://github.com/imlolman/CCAvenue-php-sdk" target="_blank"><strong>CCAvenue PHP SDK</strong></a> - CCAvenue payment gateway integration
+- <a href="https://github.com/imlolman/firebase-php" target="_blank"><strong>Firebase PHP SDK</strong></a> - Unofficial Firebase Admin SDK for PHP
 
 ### Development Tools
-- **[PHP SDK Generator](https://github.com/imlolman/php-sdk-generator-from-postman-sdk)** - Generate PHP SDKs from Postman Collections
-- **[Backup to Drive](https://github.com/imlolman/Backup-to-drive)** - Automated backup solution with retention management
-- **[Proxmox Snippets API](https://github.com/imlolman/proxmox-snippets-api)** - API for managing Proxmox snippets
-- **[Google Docs Generator](https://github.com/imlolman/Google-Docs-Generator)** - Generate multiple Google Docs and PDFs from sheet data
+- <a href="https://github.com/imlolman/php-sdk-generator-from-postman-sdk" target="_blank"><strong>PHP SDK Generator</strong></a> - Generate PHP SDKs from Postman Collections
+- <a href="https://github.com/imlolman/Backup-to-drive" target="_blank"><strong>Backup to Drive</strong></a> - Automated backup solution with retention management
+- <a href="https://github.com/imlolman/proxmox-snippets-api" target="_blank"><strong>Proxmox Snippets API</strong></a> - API for managing Proxmox snippets
+- <a href="https://github.com/imlolman/Google-Docs-Generator" target="_blank"><strong>Google Docs Generator</strong></a> - Generate multiple Google Docs and PDFs from sheet data
 
 ### Web Tools & Extensions
-- **[WhatsApp Chat Widget](https://github.com/imlolman/Whatsapp-Chat-Widget)** - JavaScript SDK for website integration
-- **[WhatsApp Suggestion Chips](https://github.com/imlolman/Whatsapp-Suggestion-Chips)** - Chrome extension with OpenAI-powered response suggestions
-- **[WSS Tester](https://github.com/imlolman/WSS-Tester)** - WebSocket testing and debugging tool
+- <a href="https://github.com/imlolman/Whatsapp-Chat-Widget" target="_blank"><strong>WhatsApp Chat Widget</strong></a> - JavaScript SDK for website integration
+- <a href="https://github.com/imlolman/Whatsapp-Suggestion-Chips" target="_blank"><strong>WhatsApp Suggestion Chips</strong></a> - Chrome extension with OpenAI-powered response suggestions
+- <a href="https://github.com/imlolman/WSS-Tester" target="_blank"><strong>WSS Tester</strong></a> - WebSocket testing and debugging tool
 
 ### Contributions
-- **[Maccy](https://github.com/imlolman/Maccy)** - Contributing to lightweight clipboard manager for macOS
+- <a href="https://github.com/imlolman/Maccy" target="_blank"><strong>Maccy</strong></a> - Contributing to lightweight clipboard manager for macOS
 
 ## What I'm Interested In
 
@@ -200,4 +200,4 @@ I maintain several open-source PHP SDKs and tools:
 
 ---
 
-From [imlolman](https://github.com/imlolman) | Building products that solve real problems
+From <a href="https://github.com/imlolman" target="_blank">imlolman</a> | Building products that solve real problems
