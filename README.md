@@ -4,6 +4,8 @@
 
 Technical Lead with 8+ years of experience driving technical excellence and building scalable platforms. Proven track record of architecting systems to handle millions of messages daily. AWS Certified Developer with expertise in microservices architecture, cloud infrastructure, and full-stack development.
 
+<br>
+
 ## Connect With Me
 
 <p align="left">
@@ -14,6 +16,8 @@ Technical Lead with 8+ years of experience driving technical excellence and buil
 <a href="https://stackoverflow.com/users/6081232" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
 <a href="https://github.com/imlolman" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
+
+<br>
 
 ## Current Work
 
@@ -33,6 +37,8 @@ Technical Lead with 8+ years of experience driving technical excellence and buil
 - Implemented double-layer Free CDN (GitHub Pages + Cloudflare) ensuring 99.9% uptime
 - Developed 100+ automation tools reducing manual workload by 80%
 
+<br>
+
 ## Certifications & Achievements
 
 ### Professional Certifications
@@ -49,6 +55,8 @@ Technical Lead with 8+ years of experience driving technical excellence and buil
 - **Scaled Platform** - LaraPush serving 10,000+ websites with millions of notifications per minute
 - **Built 100+ Tools** - Created Lolman.Tools with privacy-focused, browser-based utilities
 - **Open Source Contributor** - Active contributions to Maccy and 15+ open source projects
+
+<br>
 
 ## Featured Projects
 
@@ -95,6 +103,8 @@ Complete MLM platform with React Native app, Laravel backend, and admin panel. F
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+<br>
 
 ## Technical Skills
 
@@ -151,6 +161,8 @@ Complete MLM platform with React Native app, Laravel backend, and admin panel. F
 - Virtualization & Server Management (Proxmox)
 - Anything Tech that has Research Involved :).
 
+<br>
+
 ## Open Source Contributions
 
 I maintain several open-source PHP SDKs and tools:
@@ -177,6 +189,8 @@ I maintain several open-source PHP SDKs and tools:
 ### Contributions
 - <a href="https://github.com/imlolman/Maccy" target="_blank"><strong>Maccy</strong></a> - Contributing to lightweight clipboard manager for macOS
 
+<br>
+
 ## What I'm Interested In
 
 - Building scalable SAAS platforms
@@ -185,6 +199,8 @@ I maintain several open-source PHP SDKs and tools:
 - AI integration and working with automation tools
 - Chrome extensions and browser tools
 - Working with Cool People like You who read entire portfolio.
+
+<br>
 
 ## Projects I've Build.
 
@@ -196,6 +212,6 @@ I maintain several open-source PHP SDKs and tools:
 - **Developer Tools**: PHP SDK Generator, Backup to Drive, Proxmox Snippets API
 - **Browser Extensions**: WhatsApp Suggestion Chips, Color Picker, Google Meet Recorder Extension
 
----
+<br>
 
 From <a href="https://github.com/imlolman" target="_blank">imlolman</a> | Building products that solve real problems
